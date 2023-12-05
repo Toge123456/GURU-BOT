@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['17245423663', '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀', true],
-  ['24160228855', '𝑨𝑵𝒀𝑨', true],
+  ['17245423663', '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀', true],
   ['']
 ] //Number of owners
 
@@ -50,11 +50,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝑨𝑵𝒀𝑨'
+global.botname = '𝑅𝑌𝑂𝑀𝐸𝑁 𝑆𝑈𝐾𝑈𝑁𝐴'
 global.premium = 'true'
 global.packname = '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' 
-global.author = '𝑨𝑵𝒀𝑨' 
-global.menuvid = 'https://i.imgur.com/GO3WWmZ.mp4'
+global.author = '𝑅𝑌𝑂𝑀𝐸𝑁 𝑆𝑈𝐾𝑈𝑁𝐴' 
+global.menuvid = 'https://i.imgur.com/NpPFsXF.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/lawliet.kfx\n' 
 global.dygp = 'https://chat.whatsapp.com/CL0rq2IZaUC14T748pthdQ'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
