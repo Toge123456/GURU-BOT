@@ -61,15 +61,15 @@ global.fgsc = 'https://github.com/Guru322/GURU-BOT'
 global.fgyt = 'https://youtube.com/@kenzo3146?si=foD4COTZk4iWCPaQ'
 global.fgpyp = 'https://youtube.com/@kenzo3146?si=foD4COTZk4iWCPaQ'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
+global.thumb = 'https://i.imgur.com/sAJ7ClM.jpg'
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
-global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
-global.xmoji = '🔥' 
+global.wait = '*🇬🇦 _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.rwait = '🇬🇦'
+global.dmoji = '🇬🇦'
+global.done = '✨'
+global.error = '🚫' 
+global.xmoji = '😭' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
